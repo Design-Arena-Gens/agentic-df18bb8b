@@ -1,0 +1,21 @@
+{
+  "name": "forex-agents",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "echo 'skip'"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "chart.js": "4.4.4",
+    "react-chartjs-2": "5.2.0"
+  },
+  "devDependencies": {
+    "vercel": "39.3.0"
+  }
+}
